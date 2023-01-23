@@ -68,7 +68,6 @@ jobs:
       - name: Lint
         run: yarn lint:ci
 
-
   e2e:
     runs-on: ubuntu-latest
 
